@@ -1,2 +1,2 @@
 # accessibility-backend-service
-Repositorio Back-end para el moduló Accesibilidad y Adaptación
+Repositorio Back-end para el modulo Accesibilidad y Adaptación
