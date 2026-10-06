@@ -4,3 +4,5 @@ pydantic
 requests
 youtube-transcript-api
 python-dotenv
+pytest
+pytest-cov
