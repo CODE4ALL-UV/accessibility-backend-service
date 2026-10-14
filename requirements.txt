@@ -6,3 +6,4 @@ youtube-transcript-api
 python-dotenv
 pytest
 pytest-cov
+httpx2
